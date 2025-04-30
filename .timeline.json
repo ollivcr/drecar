@@ -1,0 +1,54 @@
+{
+  "timeline_index": 19,
+  "planner": {
+    "Team Leader": {
+      "1": {
+        "task_id": "1",
+        "dependent_task_ids": [],
+        "instruction": "Create a modern and complete website for Drecar, a car dealership in Afife, Portugal. The website should showcase the cars for sale, include contact information, an 'About Us' section, and everything should be written in Portuguese (Portugal). Use React, JavaScript, and Tailwind CSS.",
+        "task_type": "general",
+        "code": "",
+        "result": "",
+        "is_success": false,
+        "is_finished": true,
+        "assignee": "Alex",
+        "start_at": 1745926031.4167461,
+        "end_at": 1745926335.7235901
+      },
+      "current_task_id": "1"
+    }
+  },
+  "gallery_last_file": {},
+  "timeline_status": {
+    "1": 1,
+    "2": 1,
+    "4": 1,
+    "5": 1,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1,
+    "10": 1,
+    "11": 1,
+    "12": 1,
+    "13": 0,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "18": 1,
+    "19": 1
+  },
+  "preview_servers": {
+    "00de92fe-8d6e-4454-b4f8-27b4a6f2d96f": {
+      "role": "Alex",
+      "port": 5173,
+      "subdomain": "drecarwebsite-fotdvd-4fja5d-f2d96f",
+      "server": "ddaad78c-6d45-4606-b454-950e40eab2bc",
+      "cmd": "cd /data/chats/4fja5d/workspace/DrecarWebsite && pnpm run dev",
+      "timeline_index": 13,
+      "status": "success",
+      "logs": []
+    }
+  },
+  "deploy": {}
+}
